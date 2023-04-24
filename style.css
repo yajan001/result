@@ -40,6 +40,9 @@ h2 {
   line-height: 1.1;
 }
 
+h3.card__title{
+font-size:20px;
+}
 p {
   font-family: var(--font-text);
   font-size: 1rem;
