@@ -1,8 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@700&display=swap");
 
-*{ margin:0px;
-  padding:0px;
-}
 :root {
   /* Colors */
   --brand-color: hsl(46, 100%, 50%);
@@ -205,9 +202,3 @@ p.card__description{
   font-size:30px;
 }
 
-.header_grid{
-   display: grid;
-  grid-gap: 40px;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-}
